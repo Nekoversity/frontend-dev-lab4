@@ -1,0 +1,8 @@
+button#submit {
+  margin-top: 15px;
+}
+
+input#result {
+  width: 180px;
+  text-align: center;
+}
